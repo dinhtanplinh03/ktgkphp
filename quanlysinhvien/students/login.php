@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <nav>
-        <a href="students.php">Sinh Viên</a>
+        <a href="index.php">Sinh Viên</a>
         <a href="hocphan.php">Học Phần</a>
         <a href="dangky.php">Đăng Ký</a>
         <a href="login.php"><strong>Đăng Nhập</strong></a>
