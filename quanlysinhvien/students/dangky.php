@@ -79,7 +79,7 @@ $tongTinChi = array_sum(array_column($hocphans, 'SoTinChi'));
 </head>
 <body>
     <nav>
-        <a href="students.php">Sinh Viên</a>
+        <a href="index.php">Sinh Viên</a>
         <a href="hocphan.php">Học Phần</a>
         <a href="dangky.php"><strong>Đăng Ký</strong></a>
         <a href="logout.php">Đăng Xuất</a>
